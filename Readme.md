@@ -1,8 +1,11 @@
-
-<p align="center">
-  <img  src="icon.png">
-</p>
-
+---
+---
+---
+# 20/08/2021
+# Bot ain't working right now because of League of Legends patch
+---
+---
+---
 # Welcome to LeagueBot 
 
   * League of legends bot is a pixel bot for League Of Legends 10.19, written in C# .NET using image processing (image & text recognition), Interop and scriptting engine.
