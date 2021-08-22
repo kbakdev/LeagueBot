@@ -31,12 +31,3 @@
    * A League of legends account
    * A monitor with a **1920 * 1080** screen resolution.
    * .NET framework 4.7 installed on computer.
-
-
-# Author
-
-   * **Skinz** - [Skinz#1128](https://github.com/Skinz3)
-
-# Special Thanks
-
-   * **Arecki** - For his help with LCU Api.
